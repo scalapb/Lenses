@@ -10,6 +10,9 @@ scala:
 matrix:
   include:
   - env: SCALA_NATIVE
+    addons:
+      apt:
+        update: true
     sudo: required
     scala: 2.11.12
     dist: trusty
