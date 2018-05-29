@@ -1,4 +1,3 @@
-Lenses
-======
+# This repo has been merged with the main [ScalaPB repository](https://github.com/scalapb/ScalaPB). #
 
-Tiny lenses library with focus on ease of use.
+The code prior of this merge can be found in the 0.7.x branch.
